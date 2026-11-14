@@ -1,0 +1,137 @@
+period,period_type,airline,total_flights,delayed_over_15min,delayed_over_1h,delayed_16_60min,delayed_1_2h,delayed_2_3h,delayed_3h_plus,cancelled_flights,passengers,passengers_affected,source_doc,source_url,notes
+2026-01,quarter,AERO,1343,,88,,,,,8,112550,7074,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,AIR PEACE,4672,,898,,,,,18,518490,102719,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,ARIK,790,,139,,,,,2,76625,14457,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,GREEN AFRICA,290,,5,,,,,0,10453,237,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,Disrupted total 6 does not equal delayed 5 + cancelled 0.
+2026-01,quarter,IBOM AIR,2211,,130,,,,,12,148236,9422,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,MAX AIR,1004,,168,,,,,13,72877,13170,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,NG EAGLE,427,,30,,,,,1,22367,1956,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,OVERLAND,746,,114,,,,,23,21749,3808,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,RANO AIR,1581,,131,,,,,12,62022,5462,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,UMZA AIR,1120,,106,,,,,5,55471,5812,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,UNITED NIGERIA,4077,,889,,,,,14,294895,73544,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,VALUE JET,2216,,241,,,,,14,118953,13433,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,XE JET,1814,,205,,,,,6,74195,8931,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,quarter,ALL AIRLINES,22291,,3144,,,,,128,1588883,260025,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,AERO,,,32,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,AERO,,,32,,,,,4,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,AERO,,,24,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,AIR PEACE,,,528,,,,,7,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,AIR PEACE,,,184,,,,,7,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,AIR PEACE,,,186,,,,,4,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,ARIK,,,62,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,ARIK,,,24,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,ARIK,,,53,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,GREEN AFRICA,,,1,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,GREEN AFRICA,,,0,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,GREEN AFRICA,,,4,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,IBOM AIR,,,57,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,IBOM AIR,,,34,,,,,5,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,IBOM AIR,,,39,,,,,6,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,MAX AIR,,,47,,,,,7,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,MAX AIR,,,67,,,,,4,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,MAX AIR,,,54,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,NG EAGLE,,,21,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,NG EAGLE,,,5,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,NG EAGLE,,,4,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,OVERLAND,,,79,,,,,9,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,OVERLAND,,,8,,,,,11,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,"Cell blank in the source. 8 is implied by both the airline's quarterly total (114) and the network monthly total (856). The source's percentage table shows 0.00 for this cell, which conflicts with those totals."
+2026-03,month,OVERLAND,,,27,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,RANO AIR,,,65,,,,,6,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,RANO AIR,,,34,,,,,5,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,RANO AIR,,,32,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,UMZA AIR,,,54,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,UMZA AIR,,,40,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,UMZA AIR,,,12,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,UNITED NIGERIA,,,435,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,UNITED NIGERIA,,,263,,,,,5,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,UNITED NIGERIA,,,191,,,,,7,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,VALUE JET,,,106,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,VALUE JET,,,84,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,VALUE JET,,,51,,,,,10,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,XE JET,,,75,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,XE JET,,,81,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,XE JET,,,49,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-01,month,ALL AIRLINES,7484,,1562,,,,,41,571541,138379,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-02,month,ALL AIRLINES,7090,,856,,,,,45,486819,65305,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-03,month,ALL AIRLINES,7717,,726,,,,,42,530523,56341,NCAA Executive Summary of Flight Disruptions 2026 (Jan-Mar),https://ncaa.gov.ng/media/news/,
+2026-04,quarter,AERO,1407,,134,,,,,7,137344,13430,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 918 flights, but the airline figures in that table do not add up to the stated network total; 1407 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,AIR PEACE,4588,,1047,,,,,17,443871,107205,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 3015 flights, but the airline figures in that table do not add up to the stated network total; 4588 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,ARIK,676,,268,,,,,0,82758,33460,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 443 flights, but the airline figures in that table do not add up to the stated network total; 676 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,BINANI,115,,28,,,,,1,5927,1344,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,quarter,ENUGU AIR,2390,,620,,,,,3,167887,36600,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 1421 flights, but the airline figures in that table do not add up to the stated network total; 2390 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,GREEN AFRICA,523,,40,,,,,13,18502,1623,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 332 flights, but the airline figures in that table do not add up to the stated network total; 523 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,IBOM AIR,1943,,243,,,,,8,142094,18120,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 1410 flights, but the airline figures in that table do not add up to the stated network total; 1943 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,MAX AIR,912,,264,,,,,16,70915,22115,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 637 flights, but the airline figures in that table do not add up to the stated network total; 912 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,NG EAGLE,276,,42,,,,,3,17700,2123,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 113 flights, but the airline figures in that table do not add up to the stated network total; 276 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,OVERLAND,813,,145,,,,,6,28319,5962,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 543 flights, but the airline figures in that table do not add up to the stated network total; 813 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,RANO AIR,1449,,83,,,,,15,61396,3631,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 979 flights, but the airline figures in that table do not add up to the stated network total; 1449 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,UMZA AIR,1114,,39,,,,,2,60560,2384,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 766 flights, but the airline figures in that table do not add up to the stated network total; 1114 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,UNITED NIGERIA,3972,,1166,,,,,31,280459,92530,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 2775 flights, but the airline figures in that table do not add up to the stated network total; 3972 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,VALUE JET,2350,,262,,,,,2,141595,16043,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,"Summary table lists 1557 flights, but the airline figures in that table do not add up to the stated network total; 2350 (from the monthly delay table, which does reconcile) is used here."
+2026-04,quarter,XE JET,479,,62,,,,,0,11736,13216,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,Passengers affected exceeds total passengers (likely a typo in the source).
+2026-04,quarter,ALL AIRLINES,23007,,4443,,,,,124,1671063,369786,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,AERO,,,48,,,,,6,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,AERO,,,40,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,AERO,,,46,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,AIR PEACE,,,511,,,,,14,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,AIR PEACE,,,237,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,AIR PEACE,,,299,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,ARIK,,,139,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,ARIK,,,57,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,ARIK,,,72,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,BINANI,,,0,,,,,,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,BINANI,,,13,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,BINANI,,,15,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,ENUGU AIR,,,210,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,ENUGU AIR,,,180,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,ENUGU AIR,,,230,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,GREEN AFRICA,,,14,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,GREEN AFRICA,,,5,,,,,6,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,GREEN AFRICA,,,21,,,,,7,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,IBOM AIR,,,128,,,,,3,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,IBOM AIR,,,56,,,,,4,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,IBOM AIR,,,59,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,MAX AIR,,,122,,,,,4,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,MAX AIR,,,101,,,,,12,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,MAX AIR,,,41,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,NG EAGLE,,,0,,,,,,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,NG EAGLE,,,24,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,NG EAGLE,,,18,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,OVERLAND,,,92,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,OVERLAND,,,28,,,,,1,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,OVERLAND,,,25,,,,,5,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,RANO AIR,,,24,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,RANO AIR,,,24,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,RANO AIR,,,35,,,,,11,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,UMZA AIR,,,22,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,UMZA AIR,,,12,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,UMZA AIR,,,5,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,UNITED NIGERIA,,,493,,,,,9,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,UNITED NIGERIA,,,288,,,,,16,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,UNITED NIGERIA,,,385,,,,,6,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,VALUE JET,,,93,,,,,2,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,VALUE JET,,,54,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,VALUE JET,,,115,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,XE JET,,,18,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,XE JET,,,30,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,XE JET,,,14,,,,,0,,,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-04,month,ALL AIRLINES,7623,,1914,,,,,44,588392,173233,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-05,month,ALL AIRLINES,7661,,1149,,,,,48,538384,93786,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-06,month,ALL AIRLINES,7723,,1380,,,,,32,544287,102567,NCAA Executive Summary of Flight Disruptions 2026 (Apr-Jun),https://ncaa.gov.ng/media/news/,
+2026-08,month,AERO,469,246,68,178,53,13,2,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,AIR PEACE,1864,1330,664,666,400,156,108,7,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries. Air Peace and United Nigeria have publicly disputed the NCAA's August figures."
+2026-08,month,ARIK,301,188,56,132,48,5,3,1,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,BINANI,57,22,6,16,1,3,2,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,ENUGU AIR,878,582,239,343,153,40,46,4,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,GREEN AFRICA,226,114,28,86,19,1,8,3,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,IBOM AIR,560,254,82,172,61,19,2,3,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,MAX AIR,336,204,69,135,46,15,8,4,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,NG EAGLE,0,0,0,0,0,0,0,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"No operations recorded in August 2026. From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,OVERLAND,239,139,51,88,44,5,2,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,RANO AIR,503,216,73,143,51,14,8,3,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,UMZA AIR,403,52,0,52,0,0,0,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,UNITED NIGERIA,1231,943,501,442,344,116,41,8,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries. Air Peace and United Nigeria have publicly disputed the NCAA's August figures."
+2026-08,month,VALUE JET,767,435,122,313,98,20,4,3,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,XE JET,127,40,5,35,4,0,1,0,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
+2026-08,month,ALL AIRLINES,7961,4765,1964,2801,1322,407,235,36,,,NCAA Summary of Domestic Airline Flight Disruption Operations (August 2026),https://allafrica.com/stories/202609150060.html,"From image of the NCAA table (not the original file). Delay counts start at 16 minutes; delayed_over_1h is the sum of the 1-2h, 2-3h and 3h+ buckets so it can be compared with the quarterly summaries."
