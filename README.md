@@ -4,7 +4,7 @@ An open, cleaned dataset and dashboard built from the Nigerian Civil Aviation Au
 
 **Author:** Eric Allagoa | B.Sc. Computer Science (A.I. and Machine Learning), American University of Nigeria | eric.allagoa5@gmail.com
 
-**Status:** the cleaned dataset is published. The dashboard is in progress.
+**Status:** The first version of the dashboard is completed and live
 
 ## Why this project exists
 
