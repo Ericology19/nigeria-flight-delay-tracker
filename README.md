@@ -1,10 +1,12 @@
 # Nigeria Domestic Flight Delay Tracker
 
+**Live dashboard:** https://nigeria-flight-delay-tracker.streamlit.app/
+
 An open, cleaned dataset and dashboard built from the Nigerian Civil Aviation Authority (NCAA) monthly *Summary of Domestic Airline Flight Disruption Operations*, with a roadmap toward flight-level delay prediction.
 
 **Author:** Eric Allagoa | B.Sc. Computer Science (A.I. and Machine Learning), American University of Nigeria | eric.allagoa5@gmail.com
 
-**Status:** The first version of the dashboard is completed and live
+**Status:** The dataset and dashboard are published.
 
 ## Why this project exists
 
